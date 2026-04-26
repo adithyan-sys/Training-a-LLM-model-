@@ -17,10 +17,4 @@ Perfect for beginners who want to understand how GPT models work under the hood.
 - **Colab Compatible** (single notebook version available)
 - Model saving and easy inference
 
-## Project Structure
-**TinyGPT/**
-├── demo.py/                    # Main training script (local)/
-├── transformers_blocks.py     # Transformer components
-├── README.md                  # This file
-├── tinygpt_model.pth          # Saved model (after training)
-└── notebook_version.ipynb     # Google Colab friendly version
+
